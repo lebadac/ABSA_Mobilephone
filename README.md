@@ -30,5 +30,5 @@ The dataset used for training PhoBERT is [UIT-ViSD4SA](https://github.com/kimkim
 ## Methodology pipeline
 
 <div align="center">
-  <img src="CustomerBot.gif" alt="CustomerBot Demo" />
+  <img src="methodology_pipeline.png" alt="Methodology Pipeline" />
 </div>
