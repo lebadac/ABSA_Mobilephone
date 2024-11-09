@@ -1,6 +1,6 @@
-# Aspect-based Sentiment Analysis on smartPhone's Vietnamese Streaming Reviews using Apache Kafka platform
+
 <p align="center">
- <h1 align="center">CustomerBot</h1>
+ <h1 align="center">Aspect-based Sentiment Analysis on smartPhone's Vietnamese Streaming Reviews using Apache Kafka platform</h1>
 </p>
 
 ## Team members
