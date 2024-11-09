@@ -16,10 +16,10 @@ Here is my python source code for CustomerBot - a chatbot combines rule-based re
 * **Perform Sentiment Analysis:** Determine the sentiment polarity (positive, negative, or neutral) for each identified aspect.
 * **Streamline Feedback Insights:** Process and analyze large-scale streaming reviews in real-time using Apache Kafka.
 
-## ABSA_Mobilephone
+## ABSA_Mobilephone demo
 
 <div align="center">
-  <img src="CustomerBot.gif" alt="CustomerBot Demo" />
+  <img src="Result.png" alt="Result" />
 </div>
 
 
