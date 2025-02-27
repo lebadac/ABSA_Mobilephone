@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Here is my python source code for CustomerBot - a chatbot combines rule-based responses, machine learning, and recommendation system technologies for suporting customer on buying a product. With my code, you could: 
+With my code, you could: 
 * **Extract and Analyze Reviews:** Automatically identify aspects of a product (e.g., design, price, service) mentioned in user reviews.
 * **Perform Sentiment Analysis:** Determine the sentiment polarity (positive, negative, or neutral) for each identified aspect.
 * **Streamline Feedback Insights:** Process and analyze large-scale streaming reviews in real-time using Apache Kafka.
